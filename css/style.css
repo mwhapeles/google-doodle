@@ -1,6 +1,30 @@
- /* Stage */
-#stage {
-  background-image: url("MuppetBackground.jpeg");
-  height: 600px;
-    width:700px;  
-}
+
+
+/* Stage */
+#stage {background-image: url(MuppetBackground.jpeg);
+    background: #ffffff;
+    height: 600px;
+    width:1000px;
+  }
+
+  .dood {position:absolute;
+    width: 100%;
+        display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  } 
+  /* Stage */
+  #stage {
+      background: #ffffff;
+      height: 550px;
+      width:850px;
+  
+    }
+  
+  #background {
+      display: flex;
+        align-items: center;
+      justify-content: center;
+  }
+  
+   
